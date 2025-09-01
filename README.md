@@ -1,6 +1,10 @@
 <h1 align="center">Retail Rocket ecommerce ABtest 대시보드</h1>
 
-![대시보드 미리보기](AB-test-with-Retail-Rocket-data-CTV.jpg)
+<p align="center">
+  <img src="AB-test-with-Retail-Rocket-data-CTV.jpg" alt="CTV 대시보드" width="45%"/>
+  <img src="AB-test-with-Retail-Rocket-data-path.jpg" alt="Path 대시보드" width="45%"/>
+</p>
+
 
 ## 프로젝트 개요
 E-commerce 데이터를 활용해 **기존 UI(A)**와 **리메이크된 UI(B)**가 **구매 전환율에 어떤 영향을 미치는지** A/B 테스트 방식으로 검증하였습니다.  
@@ -68,10 +72,3 @@ E-commerce 데이터를 활용해 **기존 UI(A)**와 **리메이크된 UI(B)**�
 - **Tableau Public**: [Tableau 대시보드](https://public.tableau.com/app/profile/yu.siyeon/viz/ABtestwithRetailRocketdata/CVR)
 
 ---
-
-## 나머지 Path, Funnel 대시보드 이미지
-<p align="center">
-  <img src="AB-test-with-Retail-Rocket-data-CTV.jpg" alt="CTV 대시보드" width="45%"/>
-  <img src="AB-test-with-Retail-Rocket-data-path.jpg" alt="Path 대시보드" width="45%"/>
-</p>
-
