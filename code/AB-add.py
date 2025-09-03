@@ -11,6 +11,9 @@ DB_NAME = "subway"
 
 engine = create_engine(f"postgresql+psycopg2://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}")
 
+# ==== 데이터 불러오기 ====
+data=pd.read_sql("select timestamp, visitorid, event, itemid, transactionid, date_only, categoryid, parentid from total_retailrocket_data", engine)
+
 # ==== 고객 ID별 AB 할당 ====
 # 고객 ID만 추출
 unique_visitors = data['visitorid'].drop_duplicates().reset_index(drop=True) 
