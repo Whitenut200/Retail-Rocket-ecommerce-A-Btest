@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="AB-test-with-Retail-Rocket-data-CTV.jpg" alt="CTV 대시보드" width="30%"/>
-  <img src="AB-test-with-Retail-Rocket-data-funnel.jpg" alt="Path 대시보드" width="30%"/>
+  <img src="AB-test-with-Retail-Rocket-data-Funnel.jpg" alt="Path 대시보드" width="30%"/>
   <img src="AB-test-with-Retail-Rocket-data-path.jpg" alt="Path 대시보드" width="30%"/>
 </p>
 
